@@ -1,0 +1,266 @@
+{
+  "session": {
+    "maxAge": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "name": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "keys": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "version": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "description": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "main": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "test2": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "author": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "license": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "devDependencies": {
+      "chai": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "egg": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "express": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "mocha": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "supertest": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "strict": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "depth": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "env": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "level": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.unittest.js",
+    "appLogName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "logging": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "port": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/config/config.default.js"
+}

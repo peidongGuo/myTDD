@@ -1,0 +1,49 @@
+2022-05-14 00:00:02,082 INFO 62773 [egg-logrotator] agent logger reload: got log-reload message
+2022-05-14 12:50:41,004 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 304118ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+
+2022-05-14 13:19:17,201 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 1697670ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+
+2022-05-14 13:24:33,173 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 295942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+
+2022-05-14 14:26:59,197 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 3726297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+
+2022-05-14 15:09:03,298 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 62286ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+
+2022-05-14 15:15:03,833 ERROR 62773 nodejs.ClusterClientNoResponseError: client no response in 359735ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/cluster-client@3.1.0/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 62773
+hostname: guopddeMacBook-Pro.local
+

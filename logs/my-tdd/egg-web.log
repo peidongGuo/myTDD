@@ -1,0 +1,15 @@
+2022-05-14 00:00:02,079 INFO 62773 [egg-logrotator] app logger reload: got log-reload message
+2022-05-14 04:30:01,333 INFO 62773 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/xl/c6fh33ns3xxczlr694_2547c0000gn/T/egg-multipart-tmp/my-tdd"
+2022-05-14 04:30:01,340 INFO 62773 [-/127.0.0.1/-/10ms SCHEDULE /__schedule?path=/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2022-05-14 12:50:40,995 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 12:50:41,007 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-14 13:19:17,200 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 13:19:17,201 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-14 13:24:33,172 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 13:24:33,173 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-14 14:26:59,197 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 14:26:59,197 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-14 15:09:03,297 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 15:09:03,298 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-05-14 15:15:03,812 WARN 62773 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-05-14 15:15:03,833 WARN 62773 [ClusterClient:Watcher] follower closed, and try to init it again

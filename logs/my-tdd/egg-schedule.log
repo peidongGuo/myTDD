@@ -1,0 +1,3 @@
+2022-05-14 04:30:01,326 INFO 62773 [Timer] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86398685ms at 2022-05-15 04:30:00.011
+2022-05-14 04:30:01,327 INFO 62773 [Job#165247380131219476515549560241] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2022-05-14 04:30:01,340 INFO 62773 [Job#165247380131219476515549560241] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 10ms. 

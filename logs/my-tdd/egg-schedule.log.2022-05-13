@@ -1,0 +1,6 @@
+2022-05-13 22:00:27,478 INFO 75634 [egg-schedule]: register schedule /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-05-13 22:00:27,478 INFO 75634 [egg-schedule]: register schedule /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-05-13 22:00:27,478 INFO 75634 [egg-schedule]: register schedule /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-05-13 22:00:27,536 INFO 75634 [Timer] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 23372466ms at 2022-05-14 04:30:00.002
+2022-05-13 22:00:27,537 INFO 75634 [Timer] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 7172463ms at 2022-05-14 00:00:00.000
+2022-05-13 22:00:27,537 INFO 75634 [Timer] /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 7173463ms at 2022-05-14 00:00:01.000

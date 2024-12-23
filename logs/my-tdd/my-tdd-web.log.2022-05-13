@@ -1,0 +1,48 @@
+2022-05-13 22:00:27,555 ERROR 75634 [-/127.0.0.1/-/3ms GET /] nodejs.Error: Please set config.keys first
+    at MessengerApplication.get keys [as keys] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/extend/context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at clusterAppMock (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-mock@4.2.0/node_modules/egg-mock/app/middleware/cluster_app_mock.js:9:58)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-session@6.2.0/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-override@3.0.0/node_modules/koa-override/index.js:13:70)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-bodyparser@4.3.0/node_modules/koa-bodyparser/index.js:95:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-static-cache@5.1.4/node_modules/koa-static-cache/index.js:41:56
+    at notfound (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/middleware/notfound.js:5:5)
+    at meta (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/middleware/meta.js:18:5)
+
+pid: 75634
+hostname: guopddeMacBook-Pro.local
+
+2022-05-13 22:00:27,571 ERROR 75634 [-/127.0.0.1/-/9ms POST /post] nodejs.Error: Please set config.keys first
+    at MessengerApplication.get keys [as keys] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/extend/context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at clusterAppMock (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg-mock@4.2.0/node_modules/egg-mock/app/middleware/cluster_app_mock.js:9:58)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-session@6.2.0/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-override@3.0.0/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-bodyparser@4.3.0/node_modules/koa-bodyparser/index.js:95:11)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/koa-static-cache@5.1.4/node_modules/koa-static-cache/index.js:39:63
+    at notfound (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/middleware/notfound.js:5:5)
+    at meta (/Users/guopd/codeDemo/my-tdd/node_modules/.pnpm/egg@2.35.0/node_modules/egg/app/middleware/meta.js:18:5)
+
+pid: 75634
+hostname: guopddeMacBook-Pro.local
+
